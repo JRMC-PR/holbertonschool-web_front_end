@@ -8,3 +8,22 @@ Here's an example of how to use them:
   <dt>Milk</dt>
   <dd>A white liquid produced by the mammary glands of mammals.</dd>
 </dl>
+
+<b>: Makes the text bold.
+<i>: Makes the text italic.
+<u>: Underlines the text.
+<strike>: Strikes through the text.
+<small>: Makes the text smaller.
+<big>: Makes the text bigger.
+<sup>: Makes the text superscript.
+<sub>: Makes the text subscript.
+
+The scope attribute in HTML is used with <th> (table header) elements to specify which cells the header cell applies to. It helps provide context to the data inside a table and improves accessibility by helping screen readers interpret the table correctly.
+
+The scope attribute can have one of the following values:
+
+col: The header cell provides header information for the rest of the column it is in.
+row: The header cell provides header information for the rest of the row it is in.
+colgroup: The header cell provides header information for the rest of the column group it is in.
+rowgroup: The header cell provides header information for the rest of the row group it is in.
+In your code, it seems there's a small mistake. The scope attribute should be applied to the <th> elements, not the <td> elements. Here's how it should look:
