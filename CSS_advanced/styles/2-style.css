@@ -1,5 +1,5 @@
 body {
-  color: var(--text-color);
+  color: #161616;
 }
 a {
   color: #161616;
@@ -8,8 +8,8 @@ a {
   display: none;
 }
 .card-category {
-  color: var(--color-primary);
+  color: #d73953;
 }
 .section-tagline {
-  color: var(--color-primary);
+  color: #d73953;
 }
