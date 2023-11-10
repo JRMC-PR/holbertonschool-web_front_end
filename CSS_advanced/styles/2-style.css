@@ -8,8 +8,8 @@ a {
   display: none;
 }
 .card-category {
-  color: #d73953;
+  color: var(--color-primary);
 }
 .section-tagline {
-  color: #d73953;
+  color: var(--color-primary);
 }
