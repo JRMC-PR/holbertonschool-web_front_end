@@ -1,5 +1,4 @@
 :root {
-    --font-family: var(--font-family-base);
     --color-primary: #d73953;
     --color-black: #090909;
     --color-white: #ffffff;
@@ -25,6 +24,7 @@ html {
 
 body {
     color: var(--text-color);
+    font-family: var(--font-family-base);
 }
 
 a {
