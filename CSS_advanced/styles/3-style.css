@@ -16,8 +16,8 @@ a {
   display: none;
 }
 .card-category {
-  color: var(--color-primary);
+  color: var(--text-color);
 }
 .section-tagline {
-  color: var(--color-primary);
+  color: var(--text-color);
 }
