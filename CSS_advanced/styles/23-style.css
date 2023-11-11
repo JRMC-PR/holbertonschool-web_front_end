@@ -188,8 +188,8 @@ template {
     --color-light-grey: #f3f3f3;
     --color-dark-grey: #353535;
     --text-color: var(--color-black);
-    --font-family-base: 'Open Sans', Helvetica Neue, Helvetica, Arial, sans-serif;
-    --font-family-title: 'Raleway', Helvetica Neue, Helvetica, Arial, sans-serif;
+    --font-family-base: "Open Sans", Helvetica Neue, Helvetica, Arial, sans-serif;
+    --font-family-title: "Raleway", Helvetica Neue, Helvetica, Arial, sans-serif;
     --font-size-small: 1.2rem;
     --font-size-medium: 1.6rem;
     --font-size-large: 1.8rem;
@@ -298,7 +298,7 @@ a:active {
     font-size: var(--font-size-xx-large);
     font-weight: var(--font-weight-bold);
     margin: var(--section-title-margin);
-    color: var(--section-title-color)
+    color: var(--section-title-color);
 }
 
 .section-tagline {
@@ -311,7 +311,7 @@ a:active {
 .container {
     width: 960px;
     margin-left: auto;
-    margin-right: auto
+    margin-right: auto;
 }
 
 .footer {
